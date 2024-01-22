@@ -1,6 +1,6 @@
 x = 6
 y = 4359840568
-z = -987904
+z = -98790
 
 print(type(x))
 print(type(y))
